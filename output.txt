@@ -1,0 +1,34 @@
+=== Sari-Sari Store Search System ===
+Use the search feature to check availability.
+Products: Coke, Pepsi, Sprite, Royal
+=======================================
+Enter product to search: coke
+✅ Coke is available in the store.
+📦 Stock Quantity: 10
+Search again? (yes/no): yes
+
+=== Sari-Sari Store Search System ===
+Use the search feature to check availability.
+Products: Coke, Pepsi, Sprite, Royal
+=======================================
+Enter product to search: pepsi
+✅ Pepsi is available in the store.
+📦 Stock Quantity: 8
+Search again? (yes/no): yes
+
+=== Sari-Sari Store Search System ===
+Use the search feature to check availability.
+Products: Coke, Pepsi, Sprite, Royal
+=======================================
+Enter product to search: sprite
+✅ Sprite is available in the store.
+📦 Stock Quantity: 5
+Search again? (yes/no): yes
+
+=== Sari-Sari Store Search System ===
+Use the search feature to check availability.
+Products: Coke, Pepsi, Sprite, Royal
+=======================================
+Enter product to search: royal
+❌ Royal is currently out of stock.
+Search again? (yes/no): no
